@@ -18,5 +18,5 @@
 
 # Sofle键位图
 
-<img src="keymap-drawer/sofle.svg" >
+<img src="keymap-drawer/eyeslash_sofle.svg" >
 

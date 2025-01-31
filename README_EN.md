@@ -19,5 +19,5 @@ For 3D printed model files or any issues and malfunctions with the keyboard, ple
 # Sofle Keymap
 
 
-<img src="keymap-drawer/sofle.svg" >
+<img src="keymap-drawer/eyeslash_sofle.svg" >
 
