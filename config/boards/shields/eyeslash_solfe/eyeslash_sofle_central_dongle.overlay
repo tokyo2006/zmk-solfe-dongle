@@ -5,7 +5,7 @@
 *
 */
 
-#include "eyeslash_sofle.dtsi"
+#include "eyeslash_sofle_dongle.dtsi"
 
 /{
     chosen {

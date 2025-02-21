@@ -16,6 +16,6 @@ manifest:
       import: app/west.yml
     - name: prospector-zmk-module                 # <--- and these
       remote: tokyo2006                          # <---
-      revision: support_nicenano  
+      revision: change_spi0  
   self:
     path: config
