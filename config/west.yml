@@ -15,10 +15,7 @@ manifest:
     - name: zmk
       remote: zmkfirmware
       revision: v0.3.0
-      import: app/west.yml
-    - name: prospector-zmk-module                 # <--- and these
-      remote: tokyo2006                          # <---
-      revision: micro_spi2  
+      import: app/west.yml 
     - name: zmk-dongle-display
       remote: englmaxi
       revision: v0.3
